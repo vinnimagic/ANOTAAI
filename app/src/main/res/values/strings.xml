@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnotaAI</string>
+    <string name="take_photo">Tirar foto</string>
+    <string name="take_another">Tirar outra</string>
+    <string name="user_photo">Usar foto</string>
+    <string name="confirm_delete_title">Confirmar exclusão</string>
+    <string name="confirm_delete_note">Tem certeza que deseja excluir essa nota?</string>
+    <string name="yes">Sim</string>
+    <string name="not">Não</string>
+    <string name="write_your_note">Escreva sua nota aqui...</string>
+    <string name="confirm_delete_item">Tem certeza que deseja excluir este item?</string>
+    <string name="error_save_image">Erro ao salvar imagem</string>
+</resources>
